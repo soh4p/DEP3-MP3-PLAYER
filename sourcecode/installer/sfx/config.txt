@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="DEP3 Setup"
+BeginPrompt="Install DEP3 Music Player?"
+ExecuteFile="install.cmd"
+;!@InstallEnd@!
